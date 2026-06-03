@@ -12,15 +12,25 @@
 
 ### 🛠️ Tech Stack
 
-**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Core Languages**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp" />
 
-**Frontend & Backend** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+**Web & Backend**  
+<br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,angular,spring,dotnet,mongodb" />
 
-**Databases & OS** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**AI & Data Science**  
+<br/>
+<img height="48" src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" /> <img height="48" src="https://img.shields.io/badge/Machine%20Learning-%23F9A03C.svg?style=for-the-badge" /> <img height="48" src="https://img.shields.io/badge/NLP-%234A90E2.svg?style=for-the-badge" /> <img height="48" src="https://img.shields.io/badge/LLMs-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" />
 
-**AI & Data** ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F9A03C.svg?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-%234A90E2.svg?style=for-the-badge)
+**Systems & Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git" />
 
-### 💻 Highlighted Projects
+<br/>
+
+### 🚀 Key Projects
 
 * **Smart Document Analysis Engine (RAG):** Built an intelligent RAG system utilizing Python, OpenAI API, LlamaIndex, and NLP techniques for advanced document analysis.
 * **Automated AI Code Reviewer:** Developed an automated reviewing tool using Generative AI and LLMs, implementing JWT authentication, Pydantic, and JSON parsing.
